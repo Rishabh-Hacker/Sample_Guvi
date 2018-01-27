@@ -23,5 +23,5 @@ int prime(int N){
             c+=1;
     }
     if(c==2)
-    printf("%d",N);
+    printf("%d ",N);
      }

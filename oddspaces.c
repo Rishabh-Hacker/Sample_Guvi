@@ -16,6 +16,6 @@ int main()
         if(i%2==0)
             continue;
         else
-        printf("%d",i);
+        printf("%d ",i);
     }
 }

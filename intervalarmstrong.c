@@ -30,5 +30,5 @@ while(N!=0){
     N=N/10;
     }
 if(h==s)
-printf("%d",s);
+printf("%d ",s);
 }
